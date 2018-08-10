@@ -1,0 +1,17 @@
+#!/bin/bash
+#BSUB -J ucec.normal.txt
+#BSUB -W 15:00
+#BSUB -n 1
+#BSUB -q premium
+#BSUB -P acc_Signatures
+#BSUB -m mothra
+#BSUB -o /sc/orga/scratch/calina01/globalpval.out
+#BSUB -e /sc/orga/scratch/calina01/globalpval.err
+#BSUB -u anna.calinawan@mssm.edu
+#BSUB -R rusage[mem=32000]
+#BSUB -L /bin/bash
+
+module load python/3.6.2
+module load py_packages/3.6
+
+python /Users/calina01/PycharmProjects/GlobalPVal/main.py ucec.normal.txt KEGG n /Users/calina01/PycharmProjects/GlobalPVal 0 0 n

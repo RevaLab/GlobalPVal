@@ -68,15 +68,19 @@ class Tumor:
         else:
             top_or_bottom = 'descending'
 
-        output_dir = "{}/output_dir/{}_{}_{}".format(self.base_dir,
-                                                                  basename_wo_ext,
-                                                                  self.db_name,
-                                                                  top_or_bottom)
+        output_dir = "{}/output_dir/{}_{}".format(self.base_dir,
+                                                  basename_wo_ext,
+                                                  self.db_name)
 
         if not os.path.isdir(output_dir):
             os.mkdir(output_dir)
 
-        return output_dir
+        output_dir_top_or_bottom = '{}/{}'.format(output_dir, top_or_bottom)
+
+        if not os.path.isdir(output_dir_top_or_bottom):
+            os.mkdir(output_dir_top_or_bottom)
+
+        return output_dir_top_or_bottom
 
     def read_file(self):
         gene_expression_table = pd.read_csv(self.input_file, header=0, index_col=0, sep="\t")

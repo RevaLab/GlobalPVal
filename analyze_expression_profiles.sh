@@ -35,15 +35,15 @@ else
 fi
 
 # Read in Gene Expression Choice
-read -p 'Genes of interest (u for upregulated, d for downregulated): ' GENE_EXPRESSION_CHOICE
-if [ ${GENE_EXPRESSION_CHOICE} == 'd' ] || [ ${GENE_EXPRESSION_CHOICE} == 'D' ]; then
-    ASCENDING='y'
-elif [ ${GENE_EXPRESSION_CHOICE} == 'u' ] || [ ${GENE_EXPRESSION_CHOICE} == 'U' ]; then
-    ASCENDING='n'
-else
-    ASCENDING='y'
-    echo 'Gene expression choice not recognized. Defaulting to downregulated.'
-fi
+#read -p 'Genes of interest (u for upregulated, d for downregulated): ' GENE_EXPRESSION_CHOICE
+#if [ ${GENE_EXPRESSION_CHOICE} == 'd' ] || [ ${GENE_EXPRESSION_CHOICE} == 'D' ]; then
+#    ASCENDING='y'
+#elif [ ${GENE_EXPRESSION_CHOICE} == 'u' ] || [ ${GENE_EXPRESSION_CHOICE} == 'U' ]; then
+#    ASCENDING='n'
+#else
+#    ASCENDING='y'
+#    echo 'Gene expression choice not recognized. Defaulting to downregulated.'
+#fi
 
 # Read in custom pathways
 read -p 'Are you using a list of custom pathways (y/n): ' CUSTOM_PATHWAY
@@ -115,5 +115,8 @@ fi
 #python ${BASE_DIR}/main.py ${INPUT_FILE} ${DATABASE} ${ASCENDING} ${BASE_DIR} ${CUSTOM_PATHWAY_FILE} ${CUSTOM_PATHWAY_NAME} ${CUSTOM_PATHWAY_EXISTS}"  > "${BASE_DIR}/run_job.lsf"
 #
 #bsub < "${BASE_DIR}/run_job.lsf"
+ASCENDING='y'
+python ${BASE_DIR}/main.py ${INPUT_FILE} ${DATABASE} ${ASCENDING} ${BASE_DIR} ${CUSTOM_PATHWAY_FILE} ${CUSTOM_PATHWAY_NAME} ${CUSTOM_PATHWAY_EXISTS}
 
+ASCENDING='n'
 python ${BASE_DIR}/main.py ${INPUT_FILE} ${DATABASE} ${ASCENDING} ${BASE_DIR} ${CUSTOM_PATHWAY_FILE} ${CUSTOM_PATHWAY_NAME} ${CUSTOM_PATHWAY_EXISTS}

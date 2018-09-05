@@ -1,4 +1,5 @@
 import csv
+import pickle
 import sys
 
 import numpy as np
@@ -101,10 +102,26 @@ for sample_id in tumor.gene_expression_table:
                                                           pathway.avg_enrichment,
                                                           len(pw_data['genes']),
                                                           pw_data['db'])
+            tumor.add_pathway_to_final_summary_log(pw,
+                                                   sample_id,
+                                                   pathway.geom_mean_p_vals,
+                                                   len(pw_data['genes']),
+                                                   pw_data['db'])
+            break
     print("Finished with sample: {}/{}".format(sample_count, all_samples))
     sample_count += 1
 
 tumor.write_final_summary_table()
 tumor.write_final_summary_table_rank()
 tumor.write_final_summary_table_enrichment()
+tumor.write_final_summary_table_log()
+
+tumor.find_unique_metabolites()
+tumor.write_metabolite_summary()
+# print(tumor.metabolite_significant_pathways)
+#  find all significant pathways: significant_pathways()
+#  for all significant pathways, find metabolites: metabolite_pathways()
+#  for each metabolite = significant_pathways.intersection(metabolite_pathways[metabolite])
+
+
 # print(tumor.final_summary)

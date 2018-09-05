@@ -14,6 +14,7 @@ class Pathway:
         self.sample_id = sample_id
 
         self.genes = genes
+
         self.all_genes = set(all_genes)
         self.duplicates = len(all_genes) - len(self.all_genes)
         self.bg = len(set(all_genes).union(self.genes)) + self.duplicates

@@ -1,3 +1,5 @@
+import csv
+
 import scipy.stats as stats
 import numpy as np
 
@@ -39,9 +41,13 @@ class Pathway:
     def rank_pathway_genes(self):
         pathway_gene_ranks = []
 
+    # with open('checking_autoimmune_ascending.txt', 'w') as tsvout:
+    #     tsvout = csv.writer(tsvout, delimiter='\t')
         for gene in self.genes:
             try:
                 pathway_gene_ranks.append(self.sample_genes_by_rank[gene]['rank'])
+                # row = [gene, self.sample_genes_by_rank[gene]['rank'], self.sample_genes_by_rank[gene]['expression']]
+                # tsvout.writerow(row)
             except KeyError:
                 pass
 
@@ -56,6 +62,8 @@ class Pathway:
         ranks_by_enrichment = []
         enrichment_reciprocals = []
         all_enrichments = []
+        # with open('checking_autoimmune_ascending.txt', 'w') as tsvout:
+        #     tsvout = csv.writer(tsvout, delimiter='\t')
         for i, rank in enumerate(self.pathway_gene_ranks):
 
             overlap = i + 1
@@ -66,6 +74,9 @@ class Pathway:
                                                                rank_only,
                                                                pathway_only,
                                                                bg_only)
+
+            # row = [bg_only, p_value]
+            # tsvout.writerow(row)
 
             enrichment_coefficient = self.find_enrichment_coefficient(overlap,
                                                                       self.pathway_count,

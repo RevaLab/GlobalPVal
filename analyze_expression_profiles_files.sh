@@ -117,17 +117,20 @@ BASE_DIR="/Users/calina01/PycharmProjects/GlobalPVal"
 #bsub < "${BASE_DIR}/run_job.lsf"
 #ASCENDING='y'
 #python ${BASE_DIR}/main.py ${INPUT_FILE} ${DATABASE} ${ASCENDING} ${BASE_DIR} ${CUSTOM_PATHWAY_FILE} ${CUSTOM_PATHWAY_NAME} ${CUSTOM_PATHWAY_EXISTS}
-#declare -a files=("v3ccRCC_glProt_imputed_xRRef")
-declare -a files=("v3ccrcc_phoI" "v3ccrcc_phoI_log2" "v3ccrcc_phoI_RRef" "v3ccrcc_phoI_xRRef" "v3ccrcc_phoI_log2RRef" "v3ccrcc_phoI_G" "v3ccrcc_phoI_G_xRRef" "v3ccrcc_phoI_G_log2" "v3ccrcc_phoI_G_log2RRef" "v3ccrcc_phoI_G_log2")
-declare -a databases=("reactome" "KEGG" "HMDB_SMPDB")
-CUSTOM_PATHWAY_FILE=0
-CUSTOM_PATHWAY_NAME=0
-CUSTOM_PATHWAY_EXISTS='n'
+declare -a files=("UCEC_proteomics_V1.cct.txt" "UCEC_RNAseq_linear_gene_RSEM_V1.cct.txt" "UCEC_proteomics_V1.noNAs.cct.txt") # "UCEC_RNAseq_linear_gene_RSEM_V1.cct.txt", "UCEC_proteomics_V1.noNAs.cct.txt",
+#declare -a files=("UCEC_RNAseq_linear_gene_RSEM_V1.cct", "UCEC_proteomics_V1.noNAs.cct.txt")
+#declare -a files=("v3ccrcc_phoI" "v3ccrcc_phoI_log2" "v3ccrcc_phoI_RRef" "v3ccrcc_phoI_xRRef" "v3ccrcc_phoI_log2RRef" "v3ccrcc_phoI_G" "v3ccrcc_phoI_G_xRRef" "v3ccrcc_phoI_G_log2" "v3ccrcc_phoI_G_log2RRef" "v3ccrcc_phoI_G_log2")
+#declare -a databases=("reactome_EMT1" "KEGG_EMT1" "HMDB_SMPDB_EMT1")
+declare -a databases=("reactome_EMT1" "KEGG_EMT1" "HMDB_SMPDB_EMT1")
+CUSTOM_PATHWAY_EXISTS='y'
+CUSTOM_PATHWAY_FILE=1
+#CUSTOM_PATHWAY_EXISTS='n'
 for i in "${files[@]}"
 do
-INPUT_FILE=`echo "${BASE_DIR}/DataSets/${i}.txt"`
+INPUT_FILE=`echo "${BASE_DIR}/DataSets_Ucec/${i}"`
     for DATABASE in "${databases[@]}"
     do
+        CUSTOM_PATHWAY_NAME=${DATABASE}
         ASCENDING='n'
 #        echo "${INPUT_FILE} -- ${DATABASE}"
         python ${BASE_DIR}/main.py ${INPUT_FILE} ${DATABASE} ${ASCENDING} ${BASE_DIR} ${CUSTOM_PATHWAY_FILE} ${CUSTOM_PATHWAY_NAME} ${CUSTOM_PATHWAY_EXISTS}

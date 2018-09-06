@@ -1,0 +1,317 @@
+Glycolysis / Gluconeogenesis	KEGG	Count:	68	PW_u_input:	6683	Geom_mean_p_val:	0.004988822124926531	Rank:	582.1103862979854
+Citrate cycle (TCA cycle)	KEGG	Count:	30	PW_u_input:	6659	Geom_mean_p_val:	4.0981297059976767e-10	Rank:	784.5604881804293
+Pentose phosphate pathway	KEGG	Count:	30	PW_u_input:	6668	Geom_mean_p_val:	0.3573111584088971	Rank:	1445.9904870573753
+Pentose and glucuronate interconversions	KEGG	Count:	34	PW_u_input:	6681	Geom_mean_p_val:	0.03053617325551353	Rank:	989.2583153133327
+Fructose and mannose metabolism	KEGG	Count:	33	PW_u_input:	6670	Geom_mean_p_val:	0.0396969322119941	Rank:	631.7623461870628
+Galactose metabolism	KEGG	Count:	31	PW_u_input:	6671	Geom_mean_p_val:	0.07347067534287934	Rank:	1704.9741342743373
+Ascorbate and aldarate metabolism	KEGG	Count:	27	PW_u_input:	6676	Geom_mean_p_val:	0.028025243252517623	Rank:	337.8093007102821
+Fatty acid biosynthesis	KEGG	Count:	13	PW_u_input:	6663	Geom_mean_p_val:	0.2805024123407439	Rank:	794.8663704752496
+Fatty acid elongation	KEGG	Count:	25	PW_u_input:	6673	Geom_mean_p_val:	4.0383488380432296e-05	Rank:	349.22810192819406
+Fatty acid degradation	KEGG	Count:	44	PW_u_input:	6672	Geom_mean_p_val:	6.916578214195385e-10	Rank:	410.27947830341895
+Synthesis and degradation of ketone bodies	KEGG	Count:	10	PW_u_input:	6660	Geom_mean_p_val:	0.001518150368255303	Rank:	208.8132304815107
+Steroid biosynthesis	KEGG	Count:	19	PW_u_input:	6674	Geom_mean_p_val:	0.03476176206174472	Rank:	231.99999999999997
+Primary bile acid biosynthesis	KEGG	Count:	17	PW_u_input:	6668	Geom_mean_p_val:	0.01940735723034855	Rank:	632.6190977773193
+Ubiquinone and other terpenoid-quinone biosynthesis	KEGG	Count:	11	PW_u_input:	6665	Geom_mean_p_val:	0.07982244242049143	Rank:	764.2445540072929
+Steroid hormone biosynthesis	KEGG	Count:	59	PW_u_input:	6708	Geom_mean_p_val:	0.019041054214125053	Rank:	660.7265854369855
+Oxidative phosphorylation	KEGG	Count:	133	PW_u_input:	6732	Geom_mean_p_val:	3.7659582010391475e-14	Rank:	751.1204826788905
+Arginine biosynthesis	KEGG	Count:	21	PW_u_input:	6666	Geom_mean_p_val:	0.00014545741347209216	Rank:	1084.0607290366788
+Purine metabolism	KEGG	Count:	175	PW_u_input:	6760	Geom_mean_p_val:	0.837634677381878	Rank:	3550.0962899586357
+Pyrimidine metabolism	KEGG	Count:	102	PW_u_input:	6719	Geom_mean_p_val:	0.8904927533624992	Rank:	3892.6847793817574
+Alanine, aspartate and glutamate metabolism	KEGG	Count:	35	PW_u_input:	6673	Geom_mean_p_val:	0.00184710220693404	Rank:	780.6767364888628
+Glycine, serine and threonine metabolism	KEGG	Count:	40	PW_u_input:	6677	Geom_mean_p_val:	3.7283802982674206e-06	Rank:	1217.675734311553
+Cysteine and methionine metabolism	KEGG	Count:	45	PW_u_input:	6678	Geom_mean_p_val:	0.0010560022657422577	Rank:	1398.5059105820121
+Valine, leucine and isoleucine degradation	KEGG	Count:	48	PW_u_input:	6668	Geom_mean_p_val:	4.6989261552505954e-12	Rank:	588.2699508176395
+Lysine degradation	KEGG	Count:	59	PW_u_input:	6677	Geom_mean_p_val:	0.004374623941580908	Rank:	375.8261124528176
+Arginine and proline metabolism	KEGG	Count:	50	PW_u_input:	6683	Geom_mean_p_val:	5.131339920885207e-06	Rank:	879.6343676416586
+Histidine metabolism	KEGG	Count:	23	PW_u_input:	6668	Geom_mean_p_val:	0.0020269084987300824	Rank:	947.4519773856999
+Tyrosine metabolism	KEGG	Count:	36	PW_u_input:	6677	Geom_mean_p_val:	0.0002522952163058791	Rank:	1163.4554221393641
+Phenylalanine metabolism	KEGG	Count:	17	PW_u_input:	6664	Geom_mean_p_val:	0.0008722409546724654	Rank:	1046.8072215761065
+Tryptophan metabolism	KEGG	Count:	40	PW_u_input:	6674	Geom_mean_p_val:	1.245623242899035e-07	Rank:	506.8863309994598
+Phenylalanine, tyrosine and tryptophan biosynthesis	KEGG	Count:	5	PW_u_input:	6658	Geom_mean_p_val:	0.010616114322516796	Rank:	768.2692774417877
+beta-Alanine metabolism	KEGG	Count:	31	PW_u_input:	6670	Geom_mean_p_val:	5.085753672356738e-06	Rank:	353.5640471399883
+Taurine and hypotaurine metabolism	KEGG	Count:	11	PW_u_input:	6664	Geom_mean_p_val:	0.019311769955899383	Rank:	874.7317593998796
+Phosphonate and phosphinate metabolism	KEGG	Count:	6	PW_u_input:	6659	Geom_mean_p_val:	0.24369009898215832	Rank:	2411.661199492326
+Selenocompound metabolism	KEGG	Count:	17	PW_u_input:	6665	Geom_mean_p_val:	0.02210020680993522	Rank:	2541.952653778487
+D-Glutamine and D-glutamate metabolism	KEGG	Count:	5	PW_u_input:	6659	Geom_mean_p_val:	0.028163487040786896	Rank:	580.3690887293113
+Glutathione metabolism	KEGG	Count:	54	PW_u_input:	6682	Geom_mean_p_val:	8.274832633468253e-05	Rank:	1204.2790702834873
+Starch and sucrose metabolism	KEGG	Count:	36	PW_u_input:	6676	Geom_mean_p_val:	0.6938082649945196	Rank:	3213.511849909568
+N-Glycan biosynthesis	KEGG	Count:	49	PW_u_input:	6695	Geom_mean_p_val:	0.17333966792086564	Rank:	2951.422996345505
+Other glycan degradation	KEGG	Count:	18	PW_u_input:	6670	Geom_mean_p_val:	0.09924464802691649	Rank:	1191.1571358880994
+Mucin type O-glycan biosynthesis	KEGG	Count:	31	PW_u_input:	6684	Geom_mean_p_val:	0.037181496724779974	Rank:	171.83841424828682
+Other types of O-glycan biosynthesis	KEGG	Count:	22	PW_u_input:	6674	Geom_mean_p_val:	0.7244840718103036	Rank:	4498.352532543106
+Mannose type O-glycan biosynthesis	KEGG	Count:	23	PW_u_input:	6675	Geom_mean_p_val:	0.2522810179308213	Rank:	2950.3861331270923
+Amino sugar and nucleotide sugar metabolism	KEGG	Count:	48	PW_u_input:	6680	Geom_mean_p_val:	0.07133291264835272	Rank:	2077.794213699012
+Neomycin, kanamycin and gentamicin biosynthesis	KEGG	Count:	5	PW_u_input:	6659	Geom_mean_p_val:	0.3796569800133731	Rank:	3008.786375555887
+Glycosaminoglycan degradation	KEGG	Count:	19	PW_u_input:	6672	Geom_mean_p_val:	0.03922472097971412	Rank:	1124.087791304391
+Glycosaminoglycan biosynthesis - keratan sulfate	KEGG	Count:	14	PW_u_input:	6668	Geom_mean_p_val:	0.21546983857570007	Rank:	1451.0262277357144
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	KEGG	Count:	24	PW_u_input:	6679	Geom_mean_p_val:	0.016319808354430827	Rank:	109.0
+Glycerolipid metabolism	KEGG	Count:	61	PW_u_input:	6694	Geom_mean_p_val:	0.03241417353248072	Rank:	377.9960379931564
+Inositol phosphate metabolism	KEGG	Count:	73	PW_u_input:	6681	Geom_mean_p_val:	0.25420105182211133	Rank:	4741.214061051665
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	KEGG	Count:	25	PW_u_input:	6680	Geom_mean_p_val:	0.5956586826428433	Rank:	3979.0
+Glycerophospholipid metabolism	KEGG	Count:	97	PW_u_input:	6722	Geom_mean_p_val:	0.2501708413402367	Rank:	2363.9174469436066
+Ether lipid metabolism	KEGG	Count:	47	PW_u_input:	6692	Geom_mean_p_val:	0.40648074370677434	Rank:	3062.6297099542976
+Arachidonic acid metabolism	KEGG	Count:	62	PW_u_input:	6708	Geom_mean_p_val:	0.1263853949694616	Rank:	1274.8949384250716
+Linoleic acid metabolism	KEGG	Count:	29	PW_u_input:	6683	Geom_mean_p_val:	0.6683390873699693	Rank:	4378.6987714628085
+alpha-Linolenic acid metabolism	KEGG	Count:	25	PW_u_input:	6677	Geom_mean_p_val:	0.02215835736734458	Rank:	49.21742005210401
+Sphingolipid metabolism	KEGG	Count:	47	PW_u_input:	6695	Geom_mean_p_val:	0.2840024069564588	Rank:	1466.2194400435674
+Glycosphingolipid biosynthesis - lacto and neolacto series	KEGG	Count:	27	PW_u_input:	6682	Geom_mean_p_val:	0.5818617180544018	Rank:	3888.0
+Glycosphingolipid biosynthesis - globo and isoglobo series	KEGG	Count:	15	PW_u_input:	6670	Geom_mean_p_val:	0.17391304347618428	Rank:	1160.0
+Glycosphingolipid biosynthesis - ganglio series	KEGG	Count:	15	PW_u_input:	6670	Geom_mean_p_val:	0.17391304347618428	Rank:	1160.0
+Pyruvate metabolism	KEGG	Count:	39	PW_u_input:	6667	Geom_mean_p_val:	2.0772555564818807e-05	Rank:	948.1783994433838
+Glyoxylate and dicarboxylate metabolism	KEGG	Count:	28	PW_u_input:	6665	Geom_mean_p_val:	6.382585414172485e-07	Rank:	867.095854391843
+Propanoate metabolism	KEGG	Count:	32	PW_u_input:	6663	Geom_mean_p_val:	3.932632604052088e-06	Rank:	513.4740232374576
+Butanoate metabolism	KEGG	Count:	28	PW_u_input:	6668	Geom_mean_p_val:	9.440652101254309e-07	Rank:	339.78172416835577
+One carbon pool by folate	KEGG	Count:	20	PW_u_input:	6668	Geom_mean_p_val:	0.017645123658447056	Rank:	1690.166237601958
+Thiamine metabolism	KEGG	Count:	16	PW_u_input:	6666	Geom_mean_p_val:	0.08495229164936517	Rank:	2585.6392620344495
+Riboflavin metabolism	KEGG	Count:	8	PW_u_input:	6659	Geom_mean_p_val:	0.7607287909458343	Rank:	3953.6237087317095
+Vitamin B6 metabolism	KEGG	Count:	6	PW_u_input:	6658	Geom_mean_p_val:	0.003393298303869706	Rank:	316.6196866208088
+Nicotinate and nicotinamide metabolism	KEGG	Count:	30	PW_u_input:	6670	Geom_mean_p_val:	0.005377780433578445	Rank:	750.8064018426804
+Pantothenate and CoA biosynthesis	KEGG	Count:	19	PW_u_input:	6666	Geom_mean_p_val:	0.250934505768505	Rank:	1566.6459587106744
+Biotin metabolism	KEGG	Count:	3	PW_u_input:	6658	Geom_mean_p_val:	0.37518774406234523	Rank:	2498.0000000000005
+Folate biosynthesis	KEGG	Count:	26	PW_u_input:	6668	Geom_mean_p_val:	0.07791425262428055	Rank:	1557.6153283281483
+Retinol metabolism	KEGG	Count:	65	PW_u_input:	6712	Geom_mean_p_val:	0.00604830329308528	Rank:	927.685950041694
+Porphyrin and chlorophyll metabolism	KEGG	Count:	42	PW_u_input:	6688	Geom_mean_p_val:	0.06643044451510494	Rank:	2049.5932167044684
+Terpenoid backbone biosynthesis	KEGG	Count:	22	PW_u_input:	6671	Geom_mean_p_val:	0.013420856210855028	Rank:	147.84237047270446
+Nitrogen metabolism	KEGG	Count:	17	PW_u_input:	6665	Geom_mean_p_val:	0.2957073534442124	Rank:	1214.8351692416095
+Sulfur metabolism	KEGG	Count:	10	PW_u_input:	6657	Geom_mean_p_val:	0.02732164698972502	Rank:	2552.1412946095647
+Aminoacyl-tRNA biosynthesis	KEGG	Count:	66	PW_u_input:	6699	Geom_mean_p_val:	0.21395814839697128	Rank:	2755.4862602450303
+Metabolism of xenobiotics by cytochrome P450	KEGG	Count:	74	PW_u_input:	6714	Geom_mean_p_val:	0.00015578221125194392	Rank:	2306.075519228677
+Drug metabolism - cytochrome P450	KEGG	Count:	70	PW_u_input:	6711	Geom_mean_p_val:	5.7911689419446446e-05	Rank:	1469.7610656754052
+Drug metabolism - other enzymes	KEGG	Count:	79	PW_u_input:	6706	Geom_mean_p_val:	0.16854729173171767	Rank:	943.8894030515336
+Biosynthesis of unsaturated fatty acids	KEGG	Count:	23	PW_u_input:	6671	Geom_mean_p_val:	0.0007734125062769253	Rank:	399.2058127906423
+ABC transporters	KEGG	Count:	45	PW_u_input:	6689	Geom_mean_p_val:	0.8497780357643947	Rank:	4192.440361219877
+Ribosome biogenesis in eukaryotes	KEGG	Count:	103	PW_u_input:	6720	Geom_mean_p_val:	0.7028169823343924	Rank:	4071.436727650447
+Ribosome	KEGG	Count:	154	PW_u_input:	6749	Geom_mean_p_val:	0.4691533143097675	Rank:	5454.690360417656
+RNA transport	KEGG	Count:	171	PW_u_input:	6716	Geom_mean_p_val:	0.4357882556107497	Rank:	6021.606830751199
+mRNA surveillance pathway	KEGG	Count:	91	PW_u_input:	6696	Geom_mean_p_val:	0.3739641258504103	Rank:	4830.595421677494
+RNA degradation	KEGG	Count:	79	PW_u_input:	6693	Geom_mean_p_val:	0.7613294786634359	Rank:	3986.6690872424588
+RNA polymerase	KEGG	Count:	32	PW_u_input:	6679	Geom_mean_p_val:	0.6925262433080687	Rank:	4753.399806143954
+Basal transcription factors	KEGG	Count:	45	PW_u_input:	6681	Geom_mean_p_val:	0.5335354984906311	Rank:	3989.6160866052687
+DNA replication	KEGG	Count:	36	PW_u_input:	6679	Geom_mean_p_val:	0.9765154500017291	Rank:	5195.612229251372
+Spliceosome	KEGG	Count:	134	PW_u_input:	6698	Geom_mean_p_val:	0.12084291133260246	Rank:	5052.578565602444
+Proteasome	KEGG	Count:	45	PW_u_input:	6672	Geom_mean_p_val:	0.5264670061824926	Rank:	3933.6404569499364
+Protein export	KEGG	Count:	23	PW_u_input:	6665	Geom_mean_p_val:	0.566699617540952	Rank:	4279.043296816574
+PPAR signaling pathway	KEGG	Count:	72	PW_u_input:	6690	Geom_mean_p_val:	5.672906088885115e-07	Rank:	343.8924538143744
+Base excision repair	KEGG	Count:	33	PW_u_input:	6674	Geom_mean_p_val:	0.8403276456766018	Rank:	4319.358287627744
+Nucleotide excision repair	KEGG	Count:	47	PW_u_input:	6684	Geom_mean_p_val:	0.8500932908688075	Rank:	4256.9504482606235
+Mismatch repair	KEGG	Count:	23	PW_u_input:	6669	Geom_mean_p_val:	0.6003104038580274	Rank:	4799.108775982307
+Homologous recombination	KEGG	Count:	41	PW_u_input:	6682	Geom_mean_p_val:	0.6695602087643355	Rank:	4763.5694334639
+Non-homologous end-joining	KEGG	Count:	13	PW_u_input:	6659	Geom_mean_p_val:	0.7948920152620884	Rank:	4242.729832797104
+Fanconi anemia pathway	KEGG	Count:	55	PW_u_input:	6689	Geom_mean_p_val:	0.5680082175727085	Rank:	4748.9559866139225
+MAPK signaling pathway	KEGG	Count:	295	PW_u_input:	6809	Geom_mean_p_val:	0.4741679082846566	Rank:	5476.381262002847
+ErbB signaling pathway	KEGG	Count:	86	PW_u_input:	6684	Geom_mean_p_val:	0.36852312705319235	Rank:	4146.388580043451
+Ras signaling pathway	KEGG	Count:	232	PW_u_input:	6790	Geom_mean_p_val:	0.33004430744047164	Rank:	5191.634269520481
+Rap1 signaling pathway	KEGG	Count:	206	PW_u_input:	6761	Geom_mean_p_val:	0.45359856135556775	Rank:	2937.44788145428
+Calcium signaling pathway	KEGG	Count:	182	PW_u_input:	6768	Geom_mean_p_val:	0.45571213429589585	Rank:	2408.606031863664
+cGMP-PKG signaling pathway	KEGG	Count:	163	PW_u_input:	6737	Geom_mean_p_val:	0.7190179267346939	Rank:	3538.338026365858
+cAMP signaling pathway	KEGG	Count:	198	PW_u_input:	6771	Geom_mean_p_val:	0.2881274133459863	Rank:	3745.555030772087
+Cytokine-cytokine receptor interaction	KEGG	Count:	270	PW_u_input:	6896	Geom_mean_p_val:	0.7178277619963596	Rank:	3644.7918849082234
+Chemokine signaling pathway	KEGG	Count:	185	PW_u_input:	6762	Geom_mean_p_val:	0.6940257495048587	Rank:	3928.8022296914883
+NF-kappa B signaling pathway	KEGG	Count:	95	PW_u_input:	6710	Geom_mean_p_val:	0.9454569121642684	Rank:	4451.149146005049
+HIF-1 signaling pathway	KEGG	Count:	100	PW_u_input:	6694	Geom_mean_p_val:	0.9036429977284004	Rank:	3796.6381558353955
+FoxO signaling pathway	KEGG	Count:	132	PW_u_input:	6717	Geom_mean_p_val:	0.46977484764302185	Rank:	1737.7760873986963
+Phosphatidylinositol signaling system	KEGG	Count:	99	PW_u_input:	6692	Geom_mean_p_val:	0.25732582077536925	Rank:	3805.2617325406063
+Sphingolipid signaling pathway	KEGG	Count:	118	PW_u_input:	6718	Geom_mean_p_val:	0.7880809374204706	Rank:	4119.744009397537
+Phospholipase D signaling pathway	KEGG	Count:	146	PW_u_input:	6738	Geom_mean_p_val:	0.40429079827584224	Rank:	2308.2761112189883
+Neuroactive ligand-receptor interaction	KEGG	Count:	278	PW_u_input:	6907	Geom_mean_p_val:	0.4196691250044285	Rank:	2491.77341091059
+Cell cycle	KEGG	Count:	124	PW_u_input:	6716	Geom_mean_p_val:	0.6969702141034263	Rank:	4806.647780681377
+Oocyte meiosis	KEGG	Count:	124	PW_u_input:	6721	Geom_mean_p_val:	0.3242223422753163	Rank:	3461.6334836283695
+p53 signaling pathway	KEGG	Count:	68	PW_u_input:	6703	Geom_mean_p_val:	0.9407830832141232	Rank:	4341.585580815543
+Ubiquitin mediated proteolysis	KEGG	Count:	137	PW_u_input:	6723	Geom_mean_p_val:	0.4175023900128493	Rank:	3508.87918074086
+Sulfur relay system	KEGG	Count:	8	PW_u_input:	6659	Geom_mean_p_val:	0.122477856616886	Rank:	1222.7590764995482
+SNARE interactions in vesicular transport	KEGG	Count:	34	PW_u_input:	6670	Geom_mean_p_val:	0.6125075848656046	Rank:	2915.914060807276
+Autophagy - other	KEGG	Count:	32	PW_u_input:	6672	Geom_mean_p_val:	0.1498000394033967	Rank:	2342.2278771837714
+Mitophagy - animal	KEGG	Count:	65	PW_u_input:	6681	Geom_mean_p_val:	0.49526103670087024	Rank:	2634.8871274708913
+Autophagy - animal	KEGG	Count:	128	PW_u_input:	6698	Geom_mean_p_val:	0.09831691633599102	Rank:	3290.451917746727
+Protein processing in endoplasmic reticulum	KEGG	Count:	165	PW_u_input:	6731	Geom_mean_p_val:	0.415148653341024	Rank:	4968.201977572549
+Lysosome	KEGG	Count:	123	PW_u_input:	6735	Geom_mean_p_val:	0.004798437386128358	Rank:	2527.9737318645875
+Endocytosis	KEGG	Count:	244	PW_u_input:	6725	Geom_mean_p_val:	0.2978465772217149	Rank:	2629.029782205964
+Phagosome	KEGG	Count:	152	PW_u_input:	6737	Geom_mean_p_val:	0.25175192602166024	Rank:	1191.6285058588724
+Peroxisome	KEGG	Count:	83	PW_u_input:	6700	Geom_mean_p_val:	8.353900137522574e-08	Rank:	741.4322061889812
+mTOR signaling pathway	KEGG	Count:	151	PW_u_input:	6721	Geom_mean_p_val:	0.0023647446471574975	Rank:	3436.883341247726
+PI3K-Akt signaling pathway	KEGG	Count:	352	PW_u_input:	6859	Geom_mean_p_val:	0.15261089592190216	Rank:	4553.9846846219425
+AMPK signaling pathway	KEGG	Count:	121	PW_u_input:	6708	Geom_mean_p_val:	0.12512529524075897	Rank:	3028.6427072079246
+Apoptosis	KEGG	Count:	138	PW_u_input:	6722	Geom_mean_p_val:	0.488066190479613	Rank:	3102.7591983225584
+Longevity regulating pathway	KEGG	Count:	89	PW_u_input:	6693	Geom_mean_p_val:	0.32247688104488703	Rank:	4809.809088110825
+Longevity regulating pathway - multiple species	KEGG	Count:	62	PW_u_input:	6679	Geom_mean_p_val:	0.25254716733232035	Rank:	2714.244182334325
+Apoptosis - multiple species	KEGG	Count:	33	PW_u_input:	6676	Geom_mean_p_val:	0.3610645327273129	Rank:	3428.936466507716
+Ferroptosis	KEGG	Count:	40	PW_u_input:	6676	Geom_mean_p_val:	0.4611408310809796	Rank:	2293.356862073845
+Necroptosis	KEGG	Count:	164	PW_u_input:	6741	Geom_mean_p_val:	0.8594794979115673	Rank:	3932.642191494013
+Cellular senescence	KEGG	Count:	160	PW_u_input:	6725	Geom_mean_p_val:	0.8235080063430112	Rank:	3961.443237203269
+Cardiac muscle contraction	KEGG	Count:	78	PW_u_input:	6706	Geom_mean_p_val:	0.0029814965433788173	Rank:	654.5343837117363
+Adrenergic signaling in cardiomyocytes	KEGG	Count:	144	PW_u_input:	6738	Geom_mean_p_val:	0.6255121674286704	Rank:	3666.9009631458753
+Vascular smooth muscle contraction	KEGG	Count:	121	PW_u_input:	6720	Geom_mean_p_val:	0.8323755950614181	Rank:	3255.0276021444533
+Wnt signaling pathway	KEGG	Count:	143	PW_u_input:	6738	Geom_mean_p_val:	0.23755271298725053	Rank:	3717.147291759781
+Notch signaling pathway	KEGG	Count:	48	PW_u_input:	6679	Geom_mean_p_val:	0.6082021340398545	Rank:	4672.576048056982
+Hedgehog signaling pathway	KEGG	Count:	47	PW_u_input:	6679	Geom_mean_p_val:	0.4125478341807912	Rank:	4157.330736417052
+TGF-beta signaling pathway	KEGG	Count:	84	PW_u_input:	6710	Geom_mean_p_val:	0.707105107065808	Rank:	4814.00463399062
+Axon guidance	KEGG	Count:	175	PW_u_input:	6743	Geom_mean_p_val:	0.6445361261153834	Rank:	3950.1888426575083
+VEGF signaling pathway	KEGG	Count:	59	PW_u_input:	6679	Geom_mean_p_val:	0.7538263382471948	Rank:	3763.36830039793
+Apelin signaling pathway	KEGG	Count:	137	PW_u_input:	6726	Geom_mean_p_val:	0.32397782085290266	Rank:	2875.5263330042417
+Osteoclast differentiation	KEGG	Count:	128	PW_u_input:	6717	Geom_mean_p_val:	0.9752979148186143	Rank:	4649.210815173703
+Hippo signaling pathway	KEGG	Count:	154	PW_u_input:	6734	Geom_mean_p_val:	0.30808864155938825	Rank:	4639.829393521218
+Hippo signaling pathway - multiple species	KEGG	Count:	29	PW_u_input:	6661	Geom_mean_p_val:	0.7504701032612056	Rank:	3495.424344166573
+Focal adhesion	KEGG	Count:	199	PW_u_input:	6739	Geom_mean_p_val:	0.82099584864743	Rank:	3838.7683649218775
+ECM-receptor interaction	KEGG	Count:	82	PW_u_input:	6705	Geom_mean_p_val:	0.7813708747733397	Rank:	2718.3788081752004
+Cell adhesion molecules (CAMs)	KEGG	Count:	145	PW_u_input:	6756	Geom_mean_p_val:	0.5751195721788894	Rank:	2507.214280356502
+Adherens junction	KEGG	Count:	72	PW_u_input:	6671	Geom_mean_p_val:	0.32035935967348883	Rank:	3570.292593946928
+Tight junction	KEGG	Count:	170	PW_u_input:	6723	Geom_mean_p_val:	0.01639746922246323	Rank:	2753.1977562593247
+Gap junction	KEGG	Count:	88	PW_u_input:	6702	Geom_mean_p_val:	0.3229547562330058	Rank:	3066.200345850941
+Signaling pathways regulating pluripotency of stem cells	KEGG	Count:	139	PW_u_input:	6738	Geom_mean_p_val:	0.22662938168554783	Rank:	4785.389382544695
+Complement and coagulation cascades	KEGG	Count:	79	PW_u_input:	6695	Geom_mean_p_val:	0.2197873894463432	Rank:	3272.148113253493
+Platelet activation	KEGG	Count:	123	PW_u_input:	6701	Geom_mean_p_val:	0.9430322647111795	Rank:	3903.526458499789
+Antigen processing and presentation	KEGG	Count:	77	PW_u_input:	6704	Geom_mean_p_val:	0.8929666015711462	Rank:	4288.9657796722595
+Renin-angiotensin system	KEGG	Count:	23	PW_u_input:	6670	Geom_mean_p_val:	0.025885737879442223	Rank:	1550.8993586808153
+Toll-like receptor signaling pathway	KEGG	Count:	104	PW_u_input:	6720	Geom_mean_p_val:	0.8326868180547111	Rank:	4356.105988469407
+NOD-like receptor signaling pathway	KEGG	Count:	168	PW_u_input:	6747	Geom_mean_p_val:	0.9360433860596065	Rank:	4214.349408701745
+RIG-I-like receptor signaling pathway	KEGG	Count:	70	PW_u_input:	6697	Geom_mean_p_val:	0.8810590773202746	Rank:	4573.174799451499
+Cytosolic DNA-sensing pathway	KEGG	Count:	64	PW_u_input:	6703	Geom_mean_p_val:	0.8260476402852373	Rank:	4924.951835178955
+Jak-STAT signaling pathway	KEGG	Count:	162	PW_u_input:	6770	Geom_mean_p_val:	0.7181207682829747	Rank:	3559.0615704332713
+Hematopoietic cell lineage	KEGG	Count:	97	PW_u_input:	6735	Geom_mean_p_val:	0.6837456425758572	Rank:	2912.5265509133983
+Natural killer cell mediated cytotoxicity	KEGG	Count:	133	PW_u_input:	6739	Geom_mean_p_val:	0.9769109178485191	Rank:	4486.294413949288
+IL-17 signaling pathway	KEGG	Count:	93	PW_u_input:	6715	Geom_mean_p_val:	0.746897497871091	Rank:	4301.085205899296
+Th1 and Th2 cell differentiation	KEGG	Count:	92	PW_u_input:	6709	Geom_mean_p_val:	0.822122184538809	Rank:	4383.237863321062
+Th17 cell differentiation	KEGG	Count:	107	PW_u_input:	6717	Geom_mean_p_val:	0.8880181868775553	Rank:	4305.994372799589
+T cell receptor signaling pathway	KEGG	Count:	103	PW_u_input:	6696	Geom_mean_p_val:	0.9557662068398998	Rank:	4064.60213497315
+B cell receptor signaling pathway	KEGG	Count:	71	PW_u_input:	6679	Geom_mean_p_val:	0.9643550479826142	Rank:	4125.395591449505
+Fc epsilon RI signaling pathway	KEGG	Count:	68	PW_u_input:	6685	Geom_mean_p_val:	0.9441370005917572	Rank:	4101.023853610751
+Fc gamma R-mediated phagocytosis	KEGG	Count:	91	PW_u_input:	6678	Geom_mean_p_val:	0.8206615536807207	Rank:	3749.0856971065487
+TNF signaling pathway	KEGG	Count:	108	PW_u_input:	6711	Geom_mean_p_val:	0.8846515907682616	Rank:	4324.60150988412
+Leukocyte transendothelial migration	KEGG	Count:	112	PW_u_input:	6703	Geom_mean_p_val:	0.7367193167687194	Rank:	3268.309106274319
+Intestinal immune network for IgA production	KEGG	Count:	49	PW_u_input:	6701	Geom_mean_p_val:	0.9501879979292364	Rank:	5442.251577690182
+Circadian rhythm	KEGG	Count:	31	PW_u_input:	6667	Geom_mean_p_val:	0.3534449731806428	Rank:	2787.507893271923
+Circadian entrainment	KEGG	Count:	96	PW_u_input:	6717	Geom_mean_p_val:	0.25905598292374166	Rank:	2037.392509125263
+Thermogenesis	KEGG	Count:	229	PW_u_input:	6778	Geom_mean_p_val:	4.589488265730614e-07	Rank:	736.4577886575438
+Long-term potentiation	KEGG	Count:	67	PW_u_input:	6686	Geom_mean_p_val:	0.44654246868606207	Rank:	2749.1247043106855
+Synaptic vesicle cycle	KEGG	Count:	63	PW_u_input:	6691	Geom_mean_p_val:	0.005964121459804166	Rank:	1432.8509045079716
+Neurotrophin signaling pathway	KEGG	Count:	119	PW_u_input:	6697	Geom_mean_p_val:	0.3907193083735566	Rank:	4757.429843430795
+Retrograde endocannabinoid signaling	KEGG	Count:	148	PW_u_input:	6757	Geom_mean_p_val:	0.0038050204868170967	Rank:	527.7643158859661
+Glutamatergic synapse	KEGG	Count:	114	PW_u_input:	6733	Geom_mean_p_val:	0.6037745971815399	Rank:	3262.568238609722
+Cholinergic synapse	KEGG	Count:	112	PW_u_input:	6728	Geom_mean_p_val:	0.35291776936426006	Rank:	2930.672436795878
+Serotonergic synapse	KEGG	Count:	113	PW_u_input:	6739	Geom_mean_p_val:	0.18873377608889816	Rank:	2842.6882928281434
+GABAergic synapse	KEGG	Count:	88	PW_u_input:	6722	Geom_mean_p_val:	0.09368973764567458	Rank:	1742.1740023675593
+Dopaminergic synapse	KEGG	Count:	131	PW_u_input:	6730	Geom_mean_p_val:	0.21613617528635	Rank:	2900.1927707930777
+Long-term depression	KEGG	Count:	60	PW_u_input:	6689	Geom_mean_p_val:	0.5580200788610463	Rank:	3449.0110491140617
+Olfactory transduction	KEGG	Count:	418	PW_u_input:	7057	Geom_mean_p_val:	0.19398176104984027	Rank:	2780.89356697391
+Taste transduction	KEGG	Count:	83	PW_u_input:	6730	Geom_mean_p_val:	0.43777098106533185	Rank:	1850.2446666252279
+Phototransduction	KEGG	Count:	28	PW_u_input:	6681	Geom_mean_p_val:	0.04089899046629802	Rank:	148.10182812409923
+Inflammatory mediator regulation of TRP channels	KEGG	Count:	97	PW_u_input:	6709	Geom_mean_p_val:	0.44501654595479634	Rank:	2132.2730862299595
+Regulation of actin cytoskeleton	KEGG	Count:	208	PW_u_input:	6744	Geom_mean_p_val:	0.48211110853931644	Rank:	3337.0204595456416
+Insulin signaling pathway	KEGG	Count:	138	PW_u_input:	6700	Geom_mean_p_val:	0.32915260675288505	Rank:	638.2864241485538
+Insulin secretion	KEGG	Count:	85	PW_u_input:	6716	Geom_mean_p_val:	0.3379804474523669	Rank:	2113.4978356236643
+GnRH signaling pathway	KEGG	Count:	92	PW_u_input:	6700	Geom_mean_p_val:	0.33213549752671473	Rank:	3277.231747729742
+Ovarian steroidogenesis	KEGG	Count:	50	PW_u_input:	6694	Geom_mean_p_val:	0.1567813984149028	Rank:	1728.2731683644392
+Progesterone-mediated oocyte maturation	KEGG	Count:	99	PW_u_input:	6712	Geom_mean_p_val:	0.3515726915405625	Rank:	3793.89131894719
+Estrogen signaling pathway	KEGG	Count:	137	PW_u_input:	6736	Geom_mean_p_val:	0.3750956621649262	Rank:	3669.671301774015
+Melanogenesis	KEGG	Count:	101	PW_u_input:	6721	Geom_mean_p_val:	0.17442212442339167	Rank:	3010.635124934569
+Prolactin signaling pathway	KEGG	Count:	70	PW_u_input:	6689	Geom_mean_p_val:	0.5628595322925243	Rank:	3851.6355208555146
+Thyroid hormone synthesis	KEGG	Count:	74	PW_u_input:	6698	Geom_mean_p_val:	0.14772275883968006	Rank:	3427.4005904520996
+Thyroid hormone signaling pathway	KEGG	Count:	116	PW_u_input:	6695	Geom_mean_p_val:	0.4389892939174631	Rank:	3937.9583250745595
+Adipocytokine signaling pathway	KEGG	Count:	69	PW_u_input:	6690	Geom_mean_p_val:	0.16056716132708537	Rank:	476.37591497684076
+Oxytocin signaling pathway	KEGG	Count:	153	PW_u_input:	6735	Geom_mean_p_val:	0.7098534210470117	Rank:	4009.9114111696167
+Glucagon signaling pathway	KEGG	Count:	103	PW_u_input:	6699	Geom_mean_p_val:	0.4536302177820611	Rank:	397.16654499867053
+Regulation of lipolysis in adipocytes	KEGG	Count:	54	PW_u_input:	6684	Geom_mean_p_val:	0.5448864331787241	Rank:	3123.0035716414145
+Renin secretion	KEGG	Count:	65	PW_u_input:	6689	Geom_mean_p_val:	0.6568494593568642	Rank:	2244.1008217774142
+Aldosterone synthesis and secretion	KEGG	Count:	96	PW_u_input:	6713	Geom_mean_p_val:	0.19809271875957338	Rank:	2780.8044538908525
+Relaxin signaling pathway	KEGG	Count:	130	PW_u_input:	6729	Geom_mean_p_val:	0.2871464552585677	Rank:	3549.5152079451636
+Cortisol synthesis and secretion	KEGG	Count:	63	PW_u_input:	6700	Geom_mean_p_val:	0.4413377543265378	Rank:	3252.6451016368587
+Type II diabetes mellitus	KEGG	Count:	46	PW_u_input:	6682	Geom_mean_p_val:	0.374314291729688	Rank:	2104.63317967996
+Insulin resistance	KEGG	Count:	107	PW_u_input:	6699	Geom_mean_p_val:	0.3290326763815285	Rank:	2834.592428171579
+Non-alcoholic fatty liver disease (NAFLD)	KEGG	Count:	149	PW_u_input:	6727	Geom_mean_p_val:	8.626121194369426e-06	Rank:	622.9510635971595
+AGE-RAGE signaling pathway in diabetic complications	KEGG	Count:	99	PW_u_input:	6701	Geom_mean_p_val:	0.7190936828119348	Rank:	3752.6372973849016
+Type I diabetes mellitus	KEGG	Count:	43	PW_u_input:	6692	Geom_mean_p_val:	0.8641542558612414	Rank:	4449.629295688613
+Maturity onset diabetes of the young	KEGG	Count:	26	PW_u_input:	6675	Geom_mean_p_val:	0.033562551344055364	Rank:	830.3741367095968
+Aldosterone-regulated sodium reabsorption	KEGG	Count:	37	PW_u_input:	6674	Geom_mean_p_val:	0.05330533268163098	Rank:	1537.9101546399015
+Endocrine and other factor-regulated calcium reabsorption	KEGG	Count:	47	PW_u_input:	6674	Geom_mean_p_val:	0.005260485460331236	Rank:	2765.1879749165882
+Vasopressin-regulated water reabsorption	KEGG	Count:	44	PW_u_input:	6676	Geom_mean_p_val:	0.15010228664605174	Rank:	3242.886121835341
+Proximal tubule bicarbonate reclamation	KEGG	Count:	23	PW_u_input:	6667	Geom_mean_p_val:	1.5125172801283843e-05	Rank:	897.5354690209125
+Collecting duct acid secretion	KEGG	Count:	27	PW_u_input:	6668	Geom_mean_p_val:	0.0011137805723220242	Rank:	720.6257519637714
+Salivary secretion	KEGG	Count:	90	PW_u_input:	6713	Geom_mean_p_val:	0.17888821870154667	Rank:	1894.594529860301
+Gastric acid secretion	KEGG	Count:	75	PW_u_input:	6700	Geom_mean_p_val:	0.04048118254022308	Rank:	1582.0941954329146
+Pancreatic secretion	KEGG	Count:	96	PW_u_input:	6722	Geom_mean_p_val:	0.09314389335449737	Rank:	2136.314588489794
+Carbohydrate digestion and absorption	KEGG	Count:	44	PW_u_input:	6684	Geom_mean_p_val:	0.24420284032551481	Rank:	2753.7372866168494
+Protein digestion and absorption	KEGG	Count:	90	PW_u_input:	6718	Geom_mean_p_val:	8.889965351908386e-05	Rank:	1173.3044817227926
+Fat digestion and absorption	KEGG	Count:	41	PW_u_input:	6689	Geom_mean_p_val:	0.3089247851334529	Rank:	549.7751816406537
+Bile secretion	KEGG	Count:	71	PW_u_input:	6700	Geom_mean_p_val:	0.00550936061043736	Rank:	1498.5031821626617
+Vitamin digestion and absorption	KEGG	Count:	24	PW_u_input:	6670	Geom_mean_p_val:	0.4240866197867144	Rank:	1110.2771207646874
+Mineral absorption	KEGG	Count:	51	PW_u_input:	6682	Geom_mean_p_val:	0.004915660870410906	Rank:	1485.8533904536228
+Cholesterol metabolism	KEGG	Count:	50	PW_u_input:	6683	Geom_mean_p_val:	0.03559257642957593	Rank:	1576.610248414589
+Alzheimer's disease	KEGG	Count:	171	PW_u_input:	6743	Geom_mean_p_val:	5.495520524821366e-06	Rank:	614.8632593999275
+Parkinson's disease	KEGG	Count:	142	PW_u_input:	6735	Geom_mean_p_val:	1.1576991873383624e-10	Rank:	805.3339105942242
+Amyotrophic lateral sclerosis (ALS)	KEGG	Count:	51	PW_u_input:	6681	Geom_mean_p_val:	0.7845565290653441	Rank:	3255.2356987675053
+Huntington's disease	KEGG	Count:	193	PW_u_input:	6761	Geom_mean_p_val:	1.5991825998512378e-06	Rank:	879.8255398443669
+Prion diseases	KEGG	Count:	35	PW_u_input:	6669	Geom_mean_p_val:	0.38264278345721214	Rank:	3561.1320752140878
+Cocaine addiction	KEGG	Count:	49	PW_u_input:	6688	Geom_mean_p_val:	0.12498569964066526	Rank:	1935.5795644535422
+Amphetamine addiction	KEGG	Count:	68	PW_u_input:	6696	Geom_mean_p_val:	0.12770339451047213	Rank:	1555.1682610890257
+Morphine addiction	KEGG	Count:	91	PW_u_input:	6719	Geom_mean_p_val:	0.4622096636797565	Rank:	3788.190160279555
+Alcoholism	KEGG	Count:	180	PW_u_input:	6784	Geom_mean_p_val:	0.2915351808591218	Rank:	3941.8229564026356
+Bacterial invasion of epithelial cells	KEGG	Count:	76	PW_u_input:	6675	Geom_mean_p_val:	0.4519319305667144	Rank:	3327.499125491717
+Vibrio cholerae infection	KEGG	Count:	50	PW_u_input:	6676	Geom_mean_p_val:	0.007414103684947872	Rank:	1035.7150850517164
+Epithelial cell signaling in Helicobacter pylori infection	KEGG	Count:	68	PW_u_input:	6686	Geom_mean_p_val:	0.09852766071949524	Rank:	1525.2485120779822
+Pathogenic Escherichia coli infection	KEGG	Count:	55	PW_u_input:	6676	Geom_mean_p_val:	0.48850106368541896	Rank:	3916.412446360098
+Shigellosis	KEGG	Count:	65	PW_u_input:	6673	Geom_mean_p_val:	0.8920511383725467	Rank:	4201.83537768043
+Salmonella infection	KEGG	Count:	86	PW_u_input:	6689	Geom_mean_p_val:	0.76182711185819	Rank:	3969.056656635524
+Pertussis	KEGG	Count:	76	PW_u_input:	6701	Geom_mean_p_val:	0.8074931380544904	Rank:	2287.4272519959536
+Legionellosis	KEGG	Count:	55	PW_u_input:	6686	Geom_mean_p_val:	0.3792717794144386	Rank:	3289.1936119475963
+Leishmaniasis	KEGG	Count:	74	PW_u_input:	6702	Geom_mean_p_val:	0.946730604583892	Rank:	4577.104048439238
+Chagas disease (American trypanosomiasis)	KEGG	Count:	102	PW_u_input:	6720	Geom_mean_p_val:	0.8363321674081946	Rank:	4228.6829864983
+African trypanosomiasis	KEGG	Count:	35	PW_u_input:	6676	Geom_mean_p_val:	0.5865323231487831	Rank:	1884.131301435501
+Malaria	KEGG	Count:	49	PW_u_input:	6690	Geom_mean_p_val:	0.993014268569968	Rank:	5827.966014023351
+Toxoplasmosis	KEGG	Count:	113	PW_u_input:	6726	Geom_mean_p_val:	0.7682126608155304	Rank:	4289.549810498407
+Amoebiasis	KEGG	Count:	96	PW_u_input:	6713	Geom_mean_p_val:	0.41499119563752795	Rank:	2572.262367088751
+Staphylococcus aureus infection	KEGG	Count:	56	PW_u_input:	6696	Geom_mean_p_val:	0.7646600101074355	Rank:	3510.3899236149514
+Tuberculosis	KEGG	Count:	179	PW_u_input:	6768	Geom_mean_p_val:	0.8089640879036606	Rank:	3232.6045946388595
+Hepatitis C	KEGG	Count:	131	PW_u_input:	6722	Geom_mean_p_val:	0.7484444843841113	Rank:	3862.0332844245154
+Hepatitis B	KEGG	Count:	144	PW_u_input:	6729	Geom_mean_p_val:	0.8375052609667473	Rank:	4181.918574839911
+Measles	KEGG	Count:	134	PW_u_input:	6731	Geom_mean_p_val:	0.9217246059605013	Rank:	4262.416790349026
+Influenza A	KEGG	Count:	173	PW_u_input:	6756	Geom_mean_p_val:	0.795835536746599	Rank:	4287.574628957581
+Human papillomavirus infection	KEGG	Count:	319	PW_u_input:	6819	Geom_mean_p_val:	0.5483127798274259	Rank:	5151.377131430002
+HTLV-I infection	KEGG	Count:	255	PW_u_input:	6797	Geom_mean_p_val:	0.6100436206003043	Rank:	4152.073552592074
+Kaposi's sarcoma-associated herpesvirus infection	KEGG	Count:	186	PW_u_input:	6751	Geom_mean_p_val:	0.9122432586761354	Rank:	3818.9328766558215
+Herpes simplex infection	KEGG	Count:	185	PW_u_input:	6745	Geom_mean_p_val:	0.8261812477817009	Rank:	4273.961675165141
+Epstein-Barr virus infection	KEGG	Count:	203	PW_u_input:	6745	Geom_mean_p_val:	0.8316542067410063	Rank:	4914.517858525772
+Pathways in cancer	KEGG	Count:	528	PW_u_input:	6959	Geom_mean_p_val:	0.20188940077271295	Rank:	6587.426805788118
+Transcriptional misregulation in cancer	KEGG	Count:	186	PW_u_input:	6760	Geom_mean_p_val:	0.6737910865233906	Rank:	5170.958538339478
+Viral carcinogenesis	KEGG	Count:	201	PW_u_input:	6761	Geom_mean_p_val:	0.6864212864994439	Rank:	5430.330616499682
+Chemical carcinogenesis	KEGG	Count:	82	PW_u_input:	6722	Geom_mean_p_val:	0.002708227015788647	Rank:	2451.720231945912
+Proteoglycans in cancer	KEGG	Count:	203	PW_u_input:	6742	Geom_mean_p_val:	0.7964574740313235	Rank:	3594.5591634234547
+MicroRNAs in cancer	KEGG	Count:	299	PW_u_input:	6862	Geom_mean_p_val:	0.5088850615982743	Rank:	4707.064977228215
+Colorectal cancer	KEGG	Count:	86	PW_u_input:	6695	Geom_mean_p_val:	0.5352883594824733	Rank:	3817.6491663929983
+Renal cell carcinoma	KEGG	Count:	69	PW_u_input:	6679	Geom_mean_p_val:	0.6840990685885195	Rank:	3611.754842007861
+Pancreatic cancer	KEGG	Count:	75	PW_u_input:	6690	Geom_mean_p_val:	0.8628988506132456	Rank:	4129.394020655338
+Endometrial cancer	KEGG	Count:	58	PW_u_input:	6674	Geom_mean_p_val:	0.5928584871212662	Rank:	3776.608456379245
+Glioma	KEGG	Count:	71	PW_u_input:	6690	Geom_mean_p_val:	0.5935271119674008	Rank:	2375.0280617327676
+Prostate cancer	KEGG	Count:	97	PW_u_input:	6699	Geom_mean_p_val:	0.5547376851717507	Rank:	4500.894057084323
+Thyroid cancer	KEGG	Count:	37	PW_u_input:	6673	Geom_mean_p_val:	0.7274961949993535	Rank:	3794.1176466432844
+Basal cell carcinoma	KEGG	Count:	63	PW_u_input:	6700	Geom_mean_p_val:	0.3155272852785975	Rank:	3063.985889979106
+Melanoma	KEGG	Count:	72	PW_u_input:	6700	Geom_mean_p_val:	0.7603395797544052	Rank:	3306.0772178185466
+Bladder cancer	KEGG	Count:	41	PW_u_input:	6675	Geom_mean_p_val:	0.6394011688133865	Rank:	3210.263700051169
+Chronic myeloid leukemia	KEGG	Count:	78	PW_u_input:	6686	Geom_mean_p_val:	0.6977837673722761	Rank:	4260.195698895564
+Acute myeloid leukemia	KEGG	Count:	66	PW_u_input:	6683	Geom_mean_p_val:	0.5677575342808991	Rank:	4636.759764880033
+Small cell lung cancer	KEGG	Count:	93	PW_u_input:	6702	Geom_mean_p_val:	0.5946969663801681	Rank:	4007.1153938677094
+Non-small cell lung cancer	KEGG	Count:	66	PW_u_input:	6683	Geom_mean_p_val:	0.8003506461292942	Rank:	3942.4388221037466
+Breast cancer	KEGG	Count:	147	PW_u_input:	6746	Geom_mean_p_val:	0.4283060944127744	Rank:	4051.972615313037
+Hepatocellular carcinoma	KEGG	Count:	168	PW_u_input:	6743	Geom_mean_p_val:	0.180853117652174	Rank:	4238.120324365455
+Gastric cancer	KEGG	Count:	149	PW_u_input:	6745	Geom_mean_p_val:	0.4425609321308923	Rank:	3997.8386396927162
+Central carbon metabolism in cancer	KEGG	Count:	65	PW_u_input:	6680	Geom_mean_p_val:	0.56576084920679	Rank:	1759.9378912345865
+Choline metabolism in cancer	KEGG	Count:	99	PW_u_input:	6702	Geom_mean_p_val:	0.523630827143285	Rank:	2809.8378754601795
+Asthma	KEGG	Count:	31	PW_u_input:	6685	Geom_mean_p_val:	0.9793946766750187	Rank:	6114.999178516894
+Autoimmune thyroid disease	KEGG	Count:	53	PW_u_input:	6703	Geom_mean_p_val:	0.9705046007293417	Rank:	5836.285079400043
+Inflammatory bowel disease (IBD)	KEGG	Count:	65	PW_u_input:	6708	Geom_mean_p_val:	0.7786477942696515	Rank:	4368.418406261212
+Systemic lupus erythematosus	KEGG	Count:	133	PW_u_input:	6764	Geom_mean_p_val:	0.4583303156120109	Rank:	3900.5576851486207
+Rheumatoid arthritis	KEGG	Count:	90	PW_u_input:	6726	Geom_mean_p_val:	0.004086249499666879	Rank:	948.6935793369584
+Allograft rejection	KEGG	Count:	38	PW_u_input:	6688	Geom_mean_p_val:	0.9734629404005926	Rank:	5834.235394526716
+Graft-versus-host disease	KEGG	Count:	41	PW_u_input:	6691	Geom_mean_p_val:	0.9728716326064822	Rank:	5834.644252020933
+Primary immunodeficiency	KEGG	Count:	37	PW_u_input:	6682	Geom_mean_p_val:	0.9825650946145488	Rank:	5211.771565296786
+Hypertrophic cardiomyopathy (HCM)	KEGG	Count:	83	PW_u_input:	6711	Geom_mean_p_val:	0.8561469077121991	Rank:	4015.735220369426
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)	KEGG	Count:	72	PW_u_input:	6697	Geom_mean_p_val:	0.7575525039077462	Rank:	4104.115049994783
+Dilated cardiomyopathy (DCM)	KEGG	Count:	90	PW_u_input:	6716	Geom_mean_p_val:	0.8752787524666539	Rank:	4043.7414077577823
+Viral myocarditis	KEGG	Count:	59	PW_u_input:	6692	Geom_mean_p_val:	0.9349383283028986	Rank:	4538.267363869514
+Fluid shear stress and atherosclerosis	KEGG	Count:	139	PW_u_input:	6726	Geom_mean_p_val:	0.4852945671919425	Rank:	2212.297340420035
+Metabolic pathways	KEGG	Count:	1269	PW_u_input:	7439	Geom_mean_p_val:	7.2506031927846e-41	Rank:	946.0639351832763
+Carbon metabolism	KEGG	Count:	116	PW_u_input:	6693	Geom_mean_p_val:	7.1484525669668785e-12	Rank:	868.9710958808773
+2-Oxocarboxylic acid metabolism	KEGG	Count:	18	PW_u_input:	6662	Geom_mean_p_val:	1.392175431585394e-05	Rank:	1035.6375519534163
+EGFR tyrosine kinase inhibitor resistance	KEGG	Count:	78	PW_u_input:	6685	Geom_mean_p_val:	0.3385533477769953	Rank:	3944.40937534669
+Endocrine resistance	KEGG	Count:	95	PW_u_input:	6701	Geom_mean_p_val:	0.5938723649490514	Rank:	4042.9133812495043
+Antifolate resistance	KEGG	Count:	31	PW_u_input:	6671	Geom_mean_p_val:	0.6050639188225586	Rank:	3165.1547105569502
+Platinum drug resistance	KEGG	Count:	73	PW_u_input:	6691	Geom_mean_p_val:	0.49066126756920986	Rank:	2494.296866546269

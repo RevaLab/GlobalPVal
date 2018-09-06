@@ -16,7 +16,6 @@ class Tumor:
                  custom_pw_name
                  ):
 
-        yes_or_no = {'y': True, 'n': False}
         """
             pathway: {percent: [samples]}
         """
@@ -27,7 +26,7 @@ class Tumor:
         """
         self.gene_summary = {}
 
-        self.ascending = yes_or_no[ascending]
+        self.ascending = ascending
         # ascending = rank from bottom
 
         self.input_file = input_file
@@ -215,4 +214,8 @@ class Tumor:
                 row += self.metabolite_significant_pathways[metabolite]['pathways']
                 tsvout.writerow(row)
         print("finished writing metabolite summary: {}".format(output_summary))
+
+    def record_metabolite_sample_summary(self):
+        output_metabolite_samples = '{}/metabolite_samples.pkl'.format(self.output_dir)
+        pickle.dump(self.metabolite_significant_pathways, open(output_metabolite_samples, 'wb'))
 

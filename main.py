@@ -9,9 +9,11 @@ from sample import Sample
 from tumor import Tumor
 from user_pathways import UserPathways
 
+yes_or_no = {'y': True, 'n': False}
+
 input_file = sys.argv[1]
 db_name = sys.argv[2]
-ascending = sys.argv[3]
+ascending = yes_or_no[sys.argv[3]]
 base_dir = sys.argv[4]
 custom_pw_file = sys.argv[5]
 custom_pw_name = sys.argv[6]
@@ -47,7 +49,6 @@ tumor = Tumor(
     custom_pw_db,
     custom_pw_name
 )
-
 # Process samples in tumor
 sample_count = 1
 
@@ -107,7 +108,6 @@ for sample_id in tumor.gene_expression_table:
                                                    pathway.geom_mean_p_vals,
                                                    len(pw_data['genes']),
                                                    pw_data['db'])
-            break
     print("Finished with sample: {}/{}".format(sample_count, all_samples))
     sample_count += 1
 
@@ -118,10 +118,6 @@ tumor.write_final_summary_table_log()
 
 tumor.find_unique_metabolites()
 tumor.write_metabolite_summary()
-# print(tumor.metabolite_significant_pathways)
-#  find all significant pathways: significant_pathways()
-#  for all significant pathways, find metabolites: metabolite_pathways()
-#  for each metabolite = significant_pathways.intersection(metabolite_pathways[metabolite])
-
+tumor.record_metabolite_sample_summary()
 
 # print(tumor.final_summary)
